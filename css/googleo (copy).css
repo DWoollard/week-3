@@ -1,0 +1,87 @@
+#menu {
+  margin-top: 2.8em;
+  font-family: arial;
+  color: gray;
+  height: 40em;
+  width: 10em;
+  border: 0em;
+  background: #313235;
+}
+ul > a{
+  text-decoration: none;
+  font-family: arial;
+  font-weight: bold;
+  color: gray;
+  font-size: 1em;
+}
+ul > p{
+  margin-left: 0;
+  font-size: .8em;
+  font-weight: bold;
+}
+
+.google{
+  margin-top: -3.5em;
+  float: left;
+  width: 12em;
+}
+.color{
+  float: left;
+  clear: both;
+  width: 12.5em;
+  margin-bottom: 0px
+  border: 0px;
+  padding: 0px;
+  height: .5em; 
+}
+.emai{
+    margin-top: -2.5em;
+    float: right;
+    width: 24em;
+}
+.lion{
+    float: right;
+    clear: both;
+    width: 26em;
+    margin-top: 6em; 
+}
+.geo{
+    float: right;
+    clear: both;
+    width: 26em;
+    margin-top: 5em;
+}
+.results {
+  clear: both;
+  float: left;
+  display: inline;
+  width: 59%;
+  height: 100px;
+  margin-left: 5em;
+}
+h3, h4{
+font-family: helvetica;
+font-size: 1.5em;
+color: #4172F7;
+margin: 0;
+}
+p > a{
+  font-family: arial;
+  color: gray;
+  text-decoration: none;
+  font-size: .8em;
+}
+#search{
+  text-align: center;
+  clear: both;
+}
+#search > input{
+  font-size: 1.7em;
+  width: 50%;
+  text-align: left;
+  clear: both
+}
+body {
+  display: inline;
+  margin: 0px;
+}

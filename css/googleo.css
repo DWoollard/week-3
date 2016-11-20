@@ -1,0 +1,112 @@
+#menu {
+  float: left;
+  margin-top: -22.3em;
+  font-family: arial;
+  color: gray;
+  height: 40em;
+  width: 10em;
+  border: 0em;
+  background: #313235;
+}
+ul > a{
+  text-decoration: none;
+  font-family: arial;
+  font-weight: bold;
+  color: gray;
+  font-size: 1em;
+}
+ul > span{
+  margin-left: 0;
+  font-size: .8em;
+  font-weight: bold;
+}
+#webimages{
+  color: #3F3F3F;
+  font-family: helvetica;
+  font-size: 2em;
+  float: left;
+  margin-left: 1em;
+}
+#maps{
+  color: #3F3F3F;
+  font-family: helvetica;
+  font-size: 2em;
+  float: right;
+  clear: both;
+  margin-top: 1em;
+  margin-right: 3.4em;
+}
+#sidebar{
+  float: left;
+  width: 10%;
+  margin-bottom: 30em;
+  padding: 0;
+  border: 0;
+}
+#hrgls{
+  margin-bottom: -1em;
+  width: 3em;
+}
+#google{
+  margin-top: -3.5em;
+  float: left;
+  width: 12em;
+}
+#color{
+  float: left;
+  clear: both;
+  width: 12.5em;
+  margin-bottom: 0px
+  border: 0px;
+  padding: 0px;
+  height: .5em; 
+}
+#emai{
+  margin-top: -2.5em;
+  float: right;
+  width: 23em;
+}
+#lion{
+  float: right;
+  clear: both;
+  width: 27em;
+  margin-top: 1em; 
+}
+#geo{
+  float: right;
+  clear: both;
+  width: 27em;
+  margin-top: 1em;
+}
+#results{
+  float: left;
+  padding: 0;
+  width: 39%;
+  margin-left: 7em;
+  margin-top: -17.29em;
+}
+h3, h4{
+  font-family: helvetica;
+  font-size: 1.5em;
+  color: #4172F7;
+  margin: -.2em;
+}
+p > a{
+  font-family: arial;
+  color: gray;
+  text-decoration: none;
+  font-size: .8em;
+}
+#search{
+  margin-left: 13em;
+  clear: both;
+}
+#search > input{
+  font-size: 1.7em;
+  width: 60%;
+  text-align: left;
+  clear: both
+}
+body {
+  margin: 0px;
+}
